@@ -71,7 +71,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel2.setFont(new java.awt.Font("Cantarell", 1, 18)); // NOI18N
         jLabel2.setForeground(new java.awt.Color(255, 0, 51));
-        jLabel2.setText("InternSavy Internship ");
+        jLabel2.setText("Code Alpha Internship ");
         jPanel1.add(jLabel2);
         jLabel2.setBounds(300, 140, 190, 30);
 
